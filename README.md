@@ -1,2 +1,2 @@
 # A-Clock
-A clock will open in a window!
+A clock will open in a seperate window!
